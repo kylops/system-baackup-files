@@ -1,0 +1,22 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1       localhost
+255.255.255.255 broadcasthost
+::1             localhost
+
+######################### Sites  #############################
+# wordpressdemo #
+127.0.0.1 www.wordpressdemo.local wordpressdemo.local
+
+# Portfolio #
+127.0.0.1 www.portfolio.local portfolio.local
+
+# Bindu Patel #
+127.0.0.1 www.bindupatel.local bindupatel.local
+
+# gogoquinoa #
+127.0.0.1 www.gogoquinoa.local gogoquinoa.local
